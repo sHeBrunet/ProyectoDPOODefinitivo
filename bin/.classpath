@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/api-2024.06.08.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/LiquidLnF.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/Looks-2.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/NimrodLF.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/TinyLaF.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kbrun/Downloads/ProyectoDPOO-main/TonicLF.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
